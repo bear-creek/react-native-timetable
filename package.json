@@ -8,22 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gomjellie/react-native-timetable.git"
+    "url": "git+https://github.com/bear-creek/react-native-timetable.git"
   },
   "keywords": [
     "react-native",
     "timetable"
   ],
   "author": {
-    "name": "gomjellie",
-    "email": "gomjellie@gmail.com",
-    "url": "https://gomjellie.me"
+    "name": "shannon",
+    "email": "shannonrnwhite@gmail.com",
+    "url": "https://mychirp.com"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gomjellie/react-native-timetable/issues"
   },
-  "homepage": "https://github.com/gomjellie/react-native-timetable#readme",
+  "homepage": "https://github.com/bear-creek/react-native-timetable#readme",
   "dependencies": {
     "moment": "^2.24.0",
     "prop-types": "^15.7.2"
